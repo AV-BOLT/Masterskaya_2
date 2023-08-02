@@ -1,6 +1,1 @@
-*.zip
-*.log
-/build
-passwords.txt
-secret.key
-*.tmp
+terminal.ipynb
